@@ -1,6 +1,6 @@
 == Web Entwicklung 2 WS 2014/2015
 
-Hallo Max
+Hallo Max Humpert
 
 ein Projekt von Eddy Hauzel/Gauzel/Mauzel, Sergei Fährlich, TimmelPimmel und Max.
 
